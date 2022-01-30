@@ -1,0 +1,90 @@
+*{
+    color: white;
+    font-family: 'Twinkle Star', cursive;
+}
+body{
+    margin: 0px auto;
+    padding: 0px 0px;
+    line-height: 1.6;
+}
+#nav{
+    background-color: blueviolet;
+    font-size: 30px;
+}
+#Page1Line1{
+    background-color: blueviolet;
+    font-size: 50px;
+    color: yellow;
+}
+#Img1{
+    background-color: blueviolet;
+
+}
+#TipsA{
+    background-color: antiquewhite;
+    color:black;
+    font-size:50px;
+}
+#Symptom{
+    background-color: skyblue;
+    color:yellow;
+    font-size:30px;
+} 
+#FAQs{
+    background-color: gold;
+    color:rgba(128, 128, 128, 0.726);
+    font-size:20px;
+}
+#Youtube{    
+    background-color: skyblue;
+    color:rgba(128, 128, 128, 0.726);
+    font-size:50px;
+    
+}
+h1{
+    color:black;
+    font-size:30px;
+    margin: 0px auto;
+    padding: 0px 0px;
+}
+h2{
+    color:rgba(128, 128, 128, 0.726);
+    font-size:20px;
+    margin: 0px auto;
+    padding: 0px 0px;
+}
+h3{
+    background-color: blueviolet;
+    color: yellow;
+    font-size:50px;
+    margin: 0px auto;
+    padding: 0px 0px;
+}
+h4{
+    background-color: antiquewhite;
+    color:black;
+    font-size:50px;
+    margin: 0px auto;
+    padding: 0px 0px;
+}
+h5{
+    background-color: skyblue;
+    color:yellow;
+    font-size:50px;
+    margin: 0px auto;
+    padding: 0px 0px;
+}
+h6{
+    background-color: gold;
+    color:black; 
+    font-size:50px;
+    margin: 0px auto;
+    padding: 0px 0px;
+}
+#Madeby{
+    background-color: black;
+    color:white; 
+    font-size:50px;
+    margin: 0px auto;
+    padding: 0px 0px;
+}
